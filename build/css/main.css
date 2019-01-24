@@ -1,0 +1,55 @@
+/* all page common css */
+*{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    color: #222;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+a,
+a:hover,
+a:focus{
+    color: inherit;
+}
+body{
+    position: relative;
+    font-family: 'Raleway',sans-serif;
+    font-size: 16px;
+    line-height: 1.65;
+    color: #748182;
+}
+p{
+    font-size: 16px;
+    line-height: 1.65;
+    font-family: 'Open Sans',sans-serif;
+}
+section{
+    padding: 1.5rem 0 1.5rem 0;
+}
+.heading h6{
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.heading h2{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 2rem;
+}
+/* comon end */
+
