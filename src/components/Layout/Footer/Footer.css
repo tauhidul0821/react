@@ -1,0 +1,38 @@
+
+
+/* footer start */
+#footer{
+    background: #222;
+    padding: 2rem 0 4rem 0; 
+    color: #fff;
+}
+.footer-item{
+    padding-bottom: 1rem;
+}
+.footer-item h3{
+    font-size: 1rem;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.footer-item span{
+    text-transform: capitalize;
+}
+.footer-item p{
+    font-size: 0.87rem;
+
+}
+.footer-down{
+
+}
+.footer-down hr{
+    border-color: #333;
+
+}
+.footer-down p{
+    padding-top: 2rem;
+    font-size: 0.85rem;
+    color: #aaa;
+}
+
+/* footer end */

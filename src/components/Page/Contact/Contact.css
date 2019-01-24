@@ -1,0 +1,44 @@
+
+/* contact start */
+.contact-form{
+
+}
+.contact-form .form-group{
+
+}
+.contact-form .form-group .form-control{
+    border-style: none;
+    border-bottom: 2px solid #222;
+    font-size: 14px;
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: none;
+    border-radius: 0;
+    height: 3em;
+    transition: 0.4s all ease;
+}
+.contact-form .form-group textarea.form-control{
+    height: 9rem;
+    resize: none;
+}
+.contact-form .form-group button{
+    margin-top: 1.5rem;
+    color: #fff;
+    display: inline-block;
+    border: 2px solid #222;
+    padding: 0.60rem 2rem;
+    text-transform: uppercase;
+    background: #222;
+    cursor: pointer;
+    transition: .2s background-color ease;
+    font-size: 13px;
+    font-weight: 600;
+}
+.contact-form .form-group button:hover{
+    background: #fff;
+    color: #222;
+}
+
+
+
+/* contact end  */

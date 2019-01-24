@@ -1,0 +1,32 @@
+
+/* testimonial start */
+#testimonial{
+    margin-top: 3rem; 
+    background: #f2f2f2;
+    padding: 3rem 0rem 0rem 0rem;
+}
+.testimonial-item{
+
+}
+.testimonial-item img{
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+}
+.testimonial-item h2{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 1rem 0 0.5rem;
+    text-transform: capitalize;
+}
+.testimonial-item span{
+    text-transform: capitalize;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.testimonial-item p{
+    margin-top: 1.3rem;
+    word-spacing: 2px;
+}
+
+/* testimonial end */

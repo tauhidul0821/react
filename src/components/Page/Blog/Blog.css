@@ -1,0 +1,21 @@
+
+
+/* blog start */
+#blog{
+    padding-top: 5rem;
+    background: #f2f2f2;
+}
+.blog-item{
+    box-shadow: 0rem 0rem 1.87rem -0.25rem rgba(0,0,0,0.1);
+}
+.blog-item img{}
+.blog-content {
+    background: #fff;
+    padding: 2rem 1rem 1rem 1rem;
+}
+.blog-content h3{}
+.blog-content p{}
+
+
+
+/* blog end */

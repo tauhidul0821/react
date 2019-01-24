@@ -1,0 +1,32 @@
+
+/* services start */
+.service-item{
+    text-align: center;
+    margin-bottom: 3.12rem;
+}
+.service-item .service-icon{
+    font-size: 2rem;
+    border: 1px solid #e3e3e3;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    line-height: 4.87rem;
+    margin-bottom: 1.25rem;
+    transition: 0.5s all ease;
+    display: inline-block;
+
+}
+.service-item .service-icon i{
+
+}
+.service-item h4{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+.service-item p{
+
+}
+
+/* services end */

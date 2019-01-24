@@ -1,0 +1,20 @@
+
+/* portfolio start */
+.search-bar{
+    margin: auto;
+}
+.search-bar ul{}
+.search-bar ul li{
+    display: inline-block;
+    padding: 1rem;
+    text-transform: uppercase;
+}
+.search-bar ul li span{
+    padding-left: 1rem;
+}
+.portfolio-item{
+    margin-bottom: 2rem;
+}
+.portfolio-item img{}
+
+/* portfolio end */

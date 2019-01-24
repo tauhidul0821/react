@@ -1,0 +1,12 @@
+
+/* about design */
+
+#about .heading span{
+    font-size: 19px;
+    color: #222;
+    text-transform: capitalize;
+}
+#about .heading p{
+    line-height: 28px;
+
+}

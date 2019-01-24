@@ -1,0 +1,22 @@
+
+/* counter start */
+#counter{
+    background: #748182;
+    color: #fff;
+}
+.counter-item .counter-icon {}
+.counter-item .counter-icon .fa{
+    font-size: 1.87rem;
+    border-bottom: 3px solid;
+    padding-bottom: 8px;
+    margin-bottom: 9px;
+}
+.counter-item h3 {
+    font-weight: 800;
+    color: #fff;
+}
+.counter-item p{}
+
+
+
+/* counter end */
